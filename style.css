@@ -1,15 +1,25 @@
+header{
+    position:sticky;
+    top: 0;
+    padding: 0px;
+}
+
+
+
 body {
     padding: 0px;
     margin: 0px;
 }
 
 nav {
-    padding: 1%;
+    width: 100%;
+  padding: 1%;
     display: flex;
     justify-content: space-between;
     background-color: lightgray;
     display: flex;
     align-items: center;
+   
     
 }
 nav>section>ul{
